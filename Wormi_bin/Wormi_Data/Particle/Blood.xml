@@ -1,0 +1,17 @@
+<particleemitter>
+    <material name="Materials/Particle.xml" />
+    <updateinvisible enable="true" />
+    <numparticles value="500" />
+    <activetime value="0.4" />
+    <inactivetime value="0" />
+    <emissionrate value="200" />
+    <sorted enable="true" />
+    <direction min="-2 0 -2" max="2 2 2" />
+    <velocity min="0.5" max="1" />
+    <particlesize value="2.25 2.25" />
+    <timetolive value="1.5" />
+    <constantforce value="0 -2 0" />
+	<color value="1 0 0 1" />
+    <colorfade color="0.3 0.0 0.0 0.8" time="0.2" />
+    <colorfade color="0.1 0 0 0.3" time="0.2" />
+</particleemitter>

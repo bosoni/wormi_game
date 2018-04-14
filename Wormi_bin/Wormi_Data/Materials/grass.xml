@@ -1,0 +1,9 @@
+<material>
+	<technique name="Techniques/Diff.xml"/>
+	<texture name="Textures/grass.png" unit="diffuse"/>
+	<shader psdefines="ALPHAMASK"/>
+	<parameter name="MatDiffColor" value="0.717419 0.717419 0.717419 1"/>
+	<parameter name="MatSpecColor" value="0.0344827 0.0344827 0.0344827 50"/>
+	<cull value="none"/>
+	<shadowcull value="none"/>
+</material>
