@@ -1,0 +1,7 @@
+<node id="16777216">
+	<attribute name="Name" value="WormSphere"/>
+	<component id="16777216" type="AnimatedModel">
+		<attribute name="Model" value="Model;Models/WormSphere.mdl"/>
+		<attribute name="Material" value="Material;Materials/wormMaterial.001.xml"/>
+	</component>
+</node>

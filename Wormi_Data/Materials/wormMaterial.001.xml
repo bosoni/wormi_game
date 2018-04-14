@@ -1,0 +1,6 @@
+<material>
+	<technique name="Techniques/Diff.xml"/>
+	<texture name="Textures/worm.png" unit="diffuse"/>
+	<parameter name="MatDiffColor" value="0.64 0.0278589 0.0278589 1"/>
+	<parameter name="MatSpecColor" value="0.770968 0.316614 0.387693 50"/>
+</material>
